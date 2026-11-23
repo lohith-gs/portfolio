@@ -212,6 +212,8 @@ export const hobbies: Hobby[] = [
       countries: [
         { name: "India", code: "in" },
         { name: "Nepal", code: "np" },
+        { name: "Thailand", code: "th" },
+        { name: "Cambodia", code: "kh" },
       ],
       states: [
         "Andhra Pradesh",
@@ -220,6 +222,8 @@ export const hobbies: Hobby[] = [
         "Tamil Nadu",
         "Kerala",
         "Maharashtra",
+        "Goa",
+        "Madhya Pradesh",
         "Himachal Pradesh",
         "Uttarakhand",
         "Sikkim",
